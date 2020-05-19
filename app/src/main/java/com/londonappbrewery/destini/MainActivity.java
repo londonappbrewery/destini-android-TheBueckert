@@ -13,7 +13,7 @@ public class MainActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
 
-
+        // oh SHItt
         // TODO: Step 5 - Wire up the 3 views from the layout to the member variables:
 
 
